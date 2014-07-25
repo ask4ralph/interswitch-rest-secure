@@ -3,8 +3,6 @@ interswitch-rest-secure
 
 <img src="https://badge.fury.io/rb/interswitch-rest-secure.png" alt="Gem Version" />
 
-A simple gem to scan a string, find and mask mastercard, visa and verve credit/debit card pans.
-
 
 ## Installation
 

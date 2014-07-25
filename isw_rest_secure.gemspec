@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'interswitch-rest-secure'
-  s.version     = '1.0.1'
+  s.version     = '1.0.2'
   s.date        = '2014-07-24'
   s.summary     = "Generate your Interswitch REST headers."
   s.description = "A utility gem for generating Interswitch REST security headers."
